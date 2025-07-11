@@ -1,4 +1,4 @@
-#Import All the Required Libraries
+# Required Libraries
 import cv2
 
 #Create a Read Video Function
