@@ -59,19 +59,10 @@ football-analysis-yolo/
 
 ---
 
-## 📸 Sample Output
-
-![Sample Output](https://github.com/YOUR_USERNAME/football-analysis-yolo/assets/sample_output.gif)
-
----
-
 ## ⚙️ Installation
 
 Download YOLOv11 best model weights
 
-python
-Copy
-Edit
 from ultralytics import YOLO
 model = YOLO('best.pt')  # or yolov11s.pt for more accuracy
 
